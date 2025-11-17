@@ -7,6 +7,32 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Passage Greens Dashboard
+
+A Laravel-based agricultural monitoring dashboard for smart farming systems.
+
+## Features
+
+- Real-time sensor data monitoring (pH, EC, water level, nutrients)
+- Weather integration
+- System recommendations
+- Responsive dashboard design
+- Live data updates
+
+## Technology Stack
+
+- **Backend**: Laravel 10.x
+- **Frontend**: Bootstrap 5, JavaScript
+- **Database**: MySQL
+- **Weather API**: OpenWeatherMap
+
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/passage-greens-dashboard.git
+   cd passage-greens-dashboard
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -45,6 +71,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Active Logic](https://activelogic.com)**
 
 ## Contributing
+
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
